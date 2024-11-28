@@ -1,0 +1,11 @@
+/rbac-backend
+├── /controllers       # Controllers for handling routes
+├── /middlewares       # Middlewares for authentication and role checks
+├── /models            # Mongoose models (User, Role)
+├── /routes            # API route definitions
+├── /utils             # Utility functions (e.g., hashing, token generation)
+├── /config            # Configuration for database and environment
+├── .env               # Environment variables
+├── app.js             # Main application file
+├── package.json       # Node.js dependencies
+└── README.md          # Project documentation
