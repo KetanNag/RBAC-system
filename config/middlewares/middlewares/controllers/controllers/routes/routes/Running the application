@@ -1,0 +1,15 @@
+Running the Application
+
+mongod
+
+Run the Server:
+
+node app.js
+
+
+API Endpoints:
+ Register a user.
+ Login and receive a JWT.
+ Access Admin resources.
+Access User resources.
+
