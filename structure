@@ -9,3 +9,9 @@
 ├── app.js             # Main application file
 ├── package.json       # Node.js dependencies
 └── README.md          # Project documentation
+
+
+//  Install Dependencies
+npm init -y
+npm install express mongoose bcrypt jsonwebtoken dotenv body-parser cors
+
